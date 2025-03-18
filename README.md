@@ -27,7 +27,13 @@ This is not \*italicized\* type.
 1. This is the fourth step.
 
    >[!NOTE]
-   >
+   >NADA
    >This is note text.
 
 1. Do another step.
+2. | Header | Another header | Yet another header |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
+| row 2 | row 2 column 2 | row 2 column 3 |
+
+
