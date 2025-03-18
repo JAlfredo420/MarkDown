@@ -7,3 +7,6 @@ This text is **bold**.
    This text is *italic*.
    This text is both ***bold and italic***.
 This is not \*italicized\* type.
+1. This is step 1.
+1. This is the next step.
+1. This is yet another step, the third.
